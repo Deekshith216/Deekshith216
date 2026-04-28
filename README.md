@@ -26,11 +26,8 @@ Strong background in backend validation, cloud-based systems, and AI-driven tool
 
 **Languages:**  
 - Python  
-- SQL  
 
-**Testing & QA:**  
-- Manual Testing  
-- Automation Testing  
+**Testing & QA:**   
 - Playwright  
 
 **Tools & Platforms:**  
@@ -42,8 +39,7 @@ Strong background in backend validation, cloud-based systems, and AI-driven tool
 
 **Other Skills:**  
 - Workflow Automation  
-- Gen AI / LLM Basics  
-- SDLC & STLC  
+- Gen AI / LLM Basics    
 - Backend Testing  
 
 ---

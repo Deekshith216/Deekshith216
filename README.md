@@ -105,15 +105,6 @@ Strong background in backend validation, cloud-based systems, and AI-driven tool
 
 - Python — MicroDegree  
 - SQL — MicroDegree  
-
----
-
-## 📊 GitHub Stats
-
-![Deekshith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deekshith216&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deekshith216&layout=compact&theme=tokyonight)
-
 ---
 
 ## 🎯 Career Goals

@@ -7,6 +7,7 @@
 📧 deekshithh60@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/deekshith-h-gatty-807477205)  
 💻 [GitHub](https://github.com/Deekshith216)  
+💼 [Portfolio](https://deekshith216.github.io/Portfolio/)
 
 ---
 

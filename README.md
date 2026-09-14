@@ -184,12 +184,20 @@ I’m particularly interested in systems where **AI + automation + backend engin
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deekshith216&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deekshith216&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
+I actively work on projects involving:
+
+* 🤖 Generative AI & LLM applications
+* 🐍 Python development
+* ⚙️ Automation workflows
+* 🔌 API & backend integrations
+* ☁️ Cloud and deployment
+* 🧪 Testing and system validation
+
+Check out my repositories to see my latest projects and experiments.
+
+👉 **[Explore my GitHub repositories](https://github.com/Deekshith216?tab=repositories)**
 
 ---
 

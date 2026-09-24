@@ -1,4 +1,4 @@
-# Hi, I'm Deekshith H. Gatty 👋
+# Hi, I'm Deekshith H Gatty 👋
 
 ### Software Engineer | AI & Automation | Python | Backend Systems
 

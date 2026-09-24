@@ -115,7 +115,6 @@ AI-powered text summarization application built with Python and Streamlit.
 
 **Tech:** `Python` `Streamlit` `OpenAI API` `Generative AI`
 
-🔗 **Repository:** [View Project](#)
 
 ---
 
@@ -133,7 +132,6 @@ An IoT-based system designed to monitor soil and environmental conditions.
 
 **Tech:** `IoT` `Sensors` `Data Validation`
 
-🔗 **Repository:** [View Project](#)
 
 ---
 
